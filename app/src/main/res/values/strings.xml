@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeartRate</string>
+    <string name="title">Heart Beat Rate:</string>
+    <string name="initial_value">0</string>
+    <string name="btnSendTitle">Send Data to Phone</string>
+
+</resources>
